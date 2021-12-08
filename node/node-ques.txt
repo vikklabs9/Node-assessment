@@ -1,0 +1,176 @@
+1. Node.js is ___________ Language.
+ Server Side
+ Client Side
+ Both
+
+VDO.AI
+
+ View Answer
+2. Node.js is written in _____________ .
+ Javascript
+ C
+ C++
+ All of the Above
+ View Answer
+ 
+3. Is node js multithreaded?
+ Yes
+ No
+ View Answer
+4. Which extension is used to save NodeJs files?
+ .js
+ .node
+ .java
+ .txt
+ View Answer
+5. In Node process is ______
+ Global Object
+ Local Object
+Download Free : Node js MCQ PDF
+ View Answer
+6. Node Js is _________
+ Asynchronous
+ Synchronous
+ View Answer
+7. Which function is used to include modules in Node Js.
+ include();
+ require();
+ attach();
+ View Answer
+8. Which of following is not builtin node module.
+ zlib
+ https
+ dgram
+ fsread
+ View Answer
+9. How Node.js modules are availble externally
+ module.exports
+ module.spread
+ module.expose
+ None of Above
+ View Answer
+10. What does the fs module stand for?
+ File Service
+ File System
+ File Store
+Read Best: Node JS Interview Questions with Express
+ View Answer
+11. What is the default scope in Node.js application.
+ Local
+ Public
+ Private
+ Global
+ View Answer
+12. Which of the following are not Node.js web application frameworks for?
+ Express.js
+ Geddy
+ Aurelia
+ Locomotive
+ View Answer
+13. Which of the following template engines can be used with Node.js?
+ Jade
+ Vash
+ Handlebars
+ All of the above
+ View Answer
+14. Which method returns the current working directory of the process.
+ process.cwd();
+ cwd();
+ pwd();
+ View Answer
+15. In which of the following areas, Node.js is perfect to use?
+ I/O bound Applications
+ Data Streaming Applications
+ Data Intensive Realtime Applications DIRT
+ All of the above.
+Download Free: Node JS Interview Questions with Express PDF
+ View Answer
+16. REPL stands for.
+ Read Eval Print Loop
+ Research Eval Program Learn
+ Read Earn Point Learn
+ Read Eval Point Loop
+ View Answer
+17. Command to start Node REPL
+ $ node start
+ $ node
+ $ node repl
+ $ node console
+ View Answer
+18. For What npm stands?
+ Node Project Manager
+ Node Package Manager
+ New Project Manager
+ New Package Manager
+ View Answer
+19. Command to show installed version of Node?
+ $ npm --version
+ $ node --version
+ $ npm getVersion
+ $ node getVersion
+ View Answer
+20. Command to list all modules that are install globally?
+ $ npm ls -g
+ $ npm ls
+ $ node ls -g
+ $ node ls
+ View Answer
+21. What is Callback?
+ Callback is an asynchronous equivalent for a function.
+ Callback is a technique in which a method call back the caller method.
+ Both of the above.
+ None of the above.
+ View Answer
+22. A stream fires finish event when all data has been flushed to underlying system.?
+ True
+ False
+ View Answer
+23. Node.js uses an event-driven, non-blocking I/O model ?
+ True
+ False
+ View Answer
+24. Which of the following module is required for path specific operations ?
+ Os module
+ Path module
+ Fs module
+ All of the above.
+ View Answer
+25. Which of the following are Node.js streams types?
+ Writable
+ Duplex
+ Readable
+ All of the above
+ View Answer
+26. How do you install Nodemon using Node.js?
+ npm install -g nodemon
+ node install -g nodemon
+ View Answer
+27. How do you kill a process in Node.js?
+ Ctrl + C
+ Ctrl + B
+ Ctrl + K
+ View Answer
+28. Node uses _________ engine in core.*
+ Chorme V8
+ Microsoft Chakra
+ SpiderMonkey
+ Node En
+ View Answer
+29. Something that happened in our application that we can respond too.
+ events
+ actions
+ procedures
+ callback
+ View Answer
+30. Which statement executes the code of sample.js file?
+ sample.js
+ node sample.js
+ nodejs sample.js
+ None of above
+ View Answer
+31. Which of the following is not a benefit of using modules?
+ Provides a means of dividing up tasks
+ Provides a means of reuse of program code
+ Provides a means of reducing the size of the program
+ Provides a means of testing individual parts of the program
+ View Answer
