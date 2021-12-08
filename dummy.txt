@@ -1,0 +1,1 @@
+This is my first file in git repository and this file will be deleted in future.
